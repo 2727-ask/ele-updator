@@ -29,31 +29,6 @@
     "eslint-plugin-vue": "^8.0.3",
     "vue-cli-plugin-electron-builder": "~2.1.1"
   },
-  "build": {
-    "appId": "com.electron.ele_updator",
-    "productName": "Electron Auto Update",
-    "publish": [
-      {
-        "provider": "github",
-        "owner": "2727-ask",
-        "repo": "ele-updator"
-      }
-    ],
-    "win": {
-      "publish": [
-        "github"
-      ],
-      "target": [
-        {
-          "target": "nsis",
-          "arch": [
-            "x64",
-            "ia32"
-          ]
-        }
-      ]
-    }
-  },
   "eslintConfig": {
     "root": true,
     "env": {

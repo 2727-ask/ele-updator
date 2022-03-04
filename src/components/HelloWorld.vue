@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}  Version 0.1</h1>
+    <h1>{{ msg }}  Version 0.2</h1>
+    <h1>Updates Are Working Fine</h1>
+    <H1>Ashutosh Kumbhar</H1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
