@@ -30,7 +30,7 @@
     "vue-cli-plugin-electron-builder": "~2.1.1"
   },
   "build": {
-    "appId": "com.electron.ele-updator",
+    "appId": "com.electron.ele_updator",
     "productName": "Electron Auto Update",
     "publish": [
       {
